@@ -1,4 +1,5 @@
 1-Web Sitesi Tasarımı
 2-Görsel Animasyonlar
+3-Sesli Komut Eklenecek
 
 "İlk Özellikler Eklendi"
